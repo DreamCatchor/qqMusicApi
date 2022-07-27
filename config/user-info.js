@@ -6,8 +6,8 @@
  */
 
 const userInfo = {
-	loginUin: '',
-	cookie: '',
+	loginUin: '319169580',
+	cookie: '85edf10e-aaf8-4159-9e96-f08fbc91ce54',
 }
 
 const cookieList = userInfo.cookie.split('; ').map(_ => _.trim());
